@@ -11,11 +11,11 @@
 [Mm]emoryCaptures/
 
 # Paid Assets 
-[Aa]ssets/Bitgem/
-[Aa]ssets/PixelMobs/
-[Aa]ssets/Prefab/*Floor/
-[Aa]ssets/Palettes/
-[Aa]sets/Drawings/Materials/bling*.png
+Bitgem/
+PixelMobs/
+Prefab/*Floor/
+Palettes/
+Drawings/Materials/bling*.png
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
