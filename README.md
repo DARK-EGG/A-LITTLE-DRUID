@@ -1,10 +1,14 @@
+
 ## :mage: A LITTLE DRUID - 작은 마법사 : 잊혀진 기억을 찾아서
+![intro](https://user-images.githubusercontent.com/62435316/135795205-8d1b69de-e3e7-4500-a4ac-801f35ef51ad.jpg)  
+
+◼️ 2021 APPS Unity Project Team: DARK EGG  
 
 ◼️ 팀명: **DARKEGG**(어두워지는 게임 개발자) 팀
 
 ◼️ 팀원: 김예진 심채영 장현애 황정현
 
-◼️ 제작 기간: 2020.03. ~ 2021.05.  
+◼️ 제작 기간: 2020.03. ~ 2021.10.  
 
 <br>
 
