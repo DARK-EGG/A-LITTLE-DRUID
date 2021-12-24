@@ -1,0 +1,420 @@
+[
+  {
+    "scene": 1,
+    "index": 1,
+    "name": "Prologue",
+    "lines": [
+      { "line": "Our world was cursed." },
+      { "line": "Everyone left abandoning this cursed land." },
+      { "line": "Have to repel evil things to release curse." },
+      { "line": "Evils wake up in the holy place." },
+      { "line": "You are the last warrior." },
+      { "line": "Please may hope come back to defeat the evils." }
+    ]
+  },
+  {
+    "scene": 2,
+    "index": 2,
+    "name": "Board",
+    "lines": [
+      { "line": "MOVE: WASD / ↑←↓→ ATTACK: T POTION: Q TALK: SPACE" }
+    ]
+  },
+  {
+    "scene": null,
+    "index": 3,
+    "name": "Alert",
+    "lines": [
+      { "line": "(next floor)" },
+      { "line": "(Scene change)" }
+
+    ]
+  },
+  {
+    "scene": null,
+    "index": 4,
+    "name": "Piece of memory",
+    "lines": [
+      { "line": "There are not enough pieces of memory to read. You have to gather all of the pieces of memory." }
+    ]
+  },
+  {
+    "scene": 2,
+    "index": 5,
+    "name": "Mother",
+    "lines": [
+      { "line": "The warriors who left for the temple didn't return." },
+      { "line": "I can't believe the most affluent town a few years ago is so quiet." },
+      { "line": "You're the only young man left in town now." },
+      { "line": "Be a warrior and bring back the cursed temple." },
+      { "line": "Take this cane with you." },
+      { "line": "(You got a cane!)" },
+      { "line": "Only those jewels can save our town." },
+      { "line": "please take care of yourself..." }
+    ]
+  },
+  {
+    "scene": 2,
+    "index": 6,
+    "name": "Scarecrow",
+    "lines": [
+      { "line": "Boy! where are you going?" },
+      { "line": "Are you going to that dangerous temple?" },
+      { "line": "I've seen many warriors bravely go to the temple to save the village." },
+      { "line": "But nobody can't coming back!" },
+      { "line": "Anyway... You also won't be able to come back too..." },
+      { "line": "Oh... This was just a word to myself. Did you hear that? Hmmhmm" },
+      { "line": "Well, after all, no one realizes our fault... Sigh..." },
+      { "line": "It's easier than you think, right?" },
+      { "line": "Well, good luck!" }
+    ]
+  },
+  {
+    "scene": 2,
+    "index": 7,
+    "name": "Defeated warrior",
+    "lines": [
+      { "line": "Hey, you. You're not supposed to be here. Go back to the village." },
+      { "line": "What? You're a warrior?" },
+      { "line": "I can't believe they're sending such a young child. It seems that there situation is serious..." },
+      { "line": "Go back, anyway! This is no place for kids to come!" },
+      { "line": "Stop! You can't go in there!" },
+      { "line": "Hey, hey... Where are you going?" },
+      { "line": "Oh my God... Finally He's in there." },
+      { "line": "Well, after all, no one realizes our fault... Sigh..." },
+      { "line": "(Next floor)" },
+      { "line": "(Scene change)" }
+    ]
+  },
+  {
+    "scene": 3,
+    "index": 8,
+    "name": "Scarecrow",
+    "lines": [
+      { "line": "You arrived at the temple safely!" },
+      { "line": "Did You meet somebody in front of the temple?" },
+      { "line": "....." },
+      { "line": "Forget it. It's just one of those people who has regrets" },
+      { "line": "By the way!" },
+      { "line": "Isn't your heart pounding because of beginning of the adventure?" },
+      { "line": "There'll be scary monsters waiting for you on every floor." },
+      { "line": "To meet the boss on each floor, you have to defeat the two followers." },
+      { "line": "For example, on this first floor, you have to get rid of monster hanging around the door and mummy." },
+      { "line": "You look scared! But you don't need to worry if you gain experience step by step from now on." },
+      { "line": "I'll give you a tip because you seem too afraid." },
+      { "line": "「Go into every room here.」" },
+      { "line": "Well, in the little rooms, you might get some hints that make your dream come true. Conquer the temple!" },
+      { "line": "Then I wish you all the best in your adventure!" }
+    ]
+  },
+  {
+    "scene": 3,
+    "index": 9,
+    "name": "Piece of memory",
+    "lines": [
+      { "line": "Strangers looking for a new land to live come across people with the jewels" },
+      { "line": "The jewels could make people become rich." },
+      { "line": "People with the jewels could live with strangers in harmon." },
+      { "line": "But strangers gradually found the convenience of the jewels and eventually became obsessed with the desire to own them." }
+    ]
+  },
+  {
+    "scene": 3,
+    "index": 10,
+    "name": "Boss of land",
+    "lines": [
+      { "line": "....." }
+
+    ]
+  },
+  {
+    "scene": 3,
+    "index": 11,
+    "name": "Boss of land",
+    "lines": [
+      { "line": "... ..." },
+      { "line": "Is it you who woke me up?" },
+      { "line": "Where are all my friends..? I don't feel any sign of my friends." },
+      { "line": "What have you done to my friends?" },
+      { "line": "What?" },
+      { "line": "Did you bring this puzzle after killing my friends?" },
+      { "line": "Then you are no different." },
+      { "line": "You're just like them. You're no different from the people in the past!" }
+    ]
+  },
+  {
+    "scene": 4,
+    "index": 12,
+    "name": "Scarecrow",
+    "lines": [
+      { "line": "Wha, How did you get up here?" },
+      { "line": "What about the land boss on the first floor?" },
+      { "line": "Oh.. you're quite a piece of work. I've underestimated you too much." },
+      { "line": "However, monsters become stronger as you head upstairs of the temple." },
+      { "line": "From now on, you really don't know when you're gonna die. *Giggle" },
+      { "line": "I'll give you a present for coming up here!" },
+      { "line": "There is a 「TREASURE BOX」 on this floor." },
+      { "line": "Go back to town with the treasure, boy." },
+      { "line": "I don't want to drive young to death." },
+      { "line": "Hmm.. Good luck!" }
+    ]
+  },
+  {
+    "scene": 4,
+    "index": 13,
+    "name": "Piece of memory",
+    "lines": [
+      { "line": "The strangers have begun to fill their greed by using the jewels." },
+      { "line": "Because of the endless greed of the strangers, the jewels was used indiscriminately." },
+      { "line": "The strangers neglected their fields and livestocks." },
+      { "line": "They just ate, drank and danced, while making their food and drinks overflowingly." },
+      { "line": "Humans, who have become everything easy, have forgotten how to thank." },
+      { "line": "Furthermore, these strangers have no longer accepted other refugees who are similar to their former appearances." },
+      { "line": "The natives could not hide their disappointment at the attitude of these humans." },
+      { "line": "However, everything has its price" }
+    ]
+  },
+  {
+    "scene": 4,
+    "index": 14,
+    "name": "Boss of water",
+    "lines": [
+      { "line": "?" },
+      { "line": "Who are you?" },
+      { "line": "What!? Human?" },
+      { "line": "Don’t come in!" },
+      { "line": "I thought humans only knew how to eat, drink and play every day, but now you're awake?" },
+      { "line": "I can't give jewelry to a selfish human being." },
+      { "line": "Go out right now!" }
+    ]
+  },
+  {
+    "scene": 5,
+    "index": 15,
+    "name": "Scarecrow",
+    "lines": [
+      { "line": "I can't believe it..." },
+      { "line": "I can't believe you a little kid came all the way here.. It's a little annoying." },
+      { "line": "But this floor will be the last of your luck" },
+      { "line": "The boss on this floor is waiting for you in a dark place that is completely blind..." },
+      { "line": "When the light goes out, you have to find the 「SWITCH」 and turn it on to deal with the boss." },
+      { "line": "The switch is not accessible in the usual way." },
+      { "line": "It won't be easy to find a portal to go there" },
+      { "line": "It's annoying to remove the dead body everytime, but I'm looking forward to it since it's been a while to do that kinda stuff on this floor!" }
+    ]
+  },
+  {
+    "scene": 5,
+    "index": 16,
+    "name": "Piece of memory",
+    "lines": [
+      { "line": "The natives warned the strangers about the cost of using jewels, but the strangers only focused on immediate benefits." },
+      { "line": "The jewels made their villages rich, but the other villages were becoming desolate." },
+      { "line": "The greed of the strangers have made the jewels darker and darker." },
+      { "line": "Eventually the natives stole jewels from humans and hid in a temple." },
+      { "line": "Blackened jewels turned the natives into monsters." },
+      { "line": "And the village that lost its jewels was becoming more and more dilapidated." }
+    ]
+  },
+  {
+    "scene": 5,
+    "index": 17,
+    "name": "Boss of wind",
+    "lines": [
+      { "line": "Umm... why is it so bright?" },
+      { "line": "Did you turn on the light?" },
+      { "line": "Looks like you managed to get the jewels of the earth and the water." },
+      { "line": "Apparently you are learning the secrets of our past..." },
+      { "line": "Why do you keep challenging us? The closer you come to the truth, the more painful you are." },
+      { "line": "..... But that's your choice." },
+      { "line": "Your luck is over." }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 18,
+    "name": "Sparkle",
+    "lines": [
+      { "line": "Are you afraid of those in the temple?" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 19,
+    "name": "Sparkle",
+    "lines": [
+      { "line": "Do you know the memories of the past?" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 20,
+    "name": "Sparkle",
+    "lines": [
+      { "line": "Do you think your actions are right thing?" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 21,
+    "name": "Cool mask",
+    "lines": [
+      { "line": "Huh..?" },
+      { "line": "Wow! It's been a while since I've seen a challenger!" },
+      { "line": "Good to see you!" },
+      { "line": "Me? Umm... Just call me a 'COOL' mask. HAHAHA." },
+      { "line": "You look young... How did you get here?" },
+      { "line": "Uh... OK. Then I'll give you some useful information that will help the challenger." },
+      { "line": "That's the role of a 'COOL' mask!" },
+      { "line": "Well, my boss doesn't usually get damaged! We can only attack when the shield is broken." },
+      { "line": "He likes to deceive others and enjoys manipulating them. Even if you're pushing yourself." },
+      { "line": "Our boss has mastered replicating himself for a long time." },
+      { "line": "The others of this temple don't know." },
+      { "line": "But I know. That's the real boss that changed his face!" },
+      { "line": "Did I say too much?" },
+      { "line": "Nothing comes back even if I help you." },
+      { "line": "Don't doubt what I'm saying though." },
+      { "line": "I just hope we understand each other on an equal footing!" },
+      { "line": "I believe in your choice!" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 22,
+    "name": "Table",
+    "lines": [
+      { "line": "You can't see it anymore." }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 23,
+    "name": "Room of truth",
+    "lines": [
+      { "line": "It was one winter day that the strangers visited the village." },
+      { "line": "We allowed them to stay until spring came." },
+      { "line": "At the end of winter the strangers pleaded." },
+      { "line": "There are so many people who can't move anymore, so let them live on the side of the village." },
+      { "line": "This land, where abundant land, clear rain and cool wind were together, belonged to everyone, not just us." },
+      { "line": "We allowed them to live on this land." },
+      { "line": "We had jewels of mysterious power." },
+      { "line": "They were three jewels that made the land rich and allowed all things to breathe." },
+      { "line": "It took a price to use the power of jewelry." },
+      { "line": "If our land is enriched with jewels, the land somewhere will lose its vitality." },
+      { "line": "If it rains with jewels on our land, the heat will continue on other lands." },
+      { "line": "If you use jewelry to let the wind blow on our land, it will be hard to breathe on other lands." },
+      { "line": "And one day the jewel disappeared." },
+      { "line": "We've never seen it, but we're sure. The jewels were in the hands of strangers." },
+      { "line": "The stranger's village became more and more abundant. There was a flood of food and drinks and the banquet was not over until late at night." },
+      { "line": "Gradually we felt the ground, rain and wind disappear." },
+      { "line": "We sent those who would retrieve the jewels to the party of strangers." },
+      { "line": "The jewels returned to our arms, but the murky jewels distorted us." },
+      { "line": "The result of jewelry with false desires returned to us, not strangers." },
+      { "line": "Maybe it was at the cost of losing the jewelry. But how about they...?" },
+      { "line": "We built a temple where only the brave could enter." },
+      { "line": "We hid ourselves in the temple." },
+      { "line": "There will be no more gems going out into the world." },
+      { "line": "The jewels will be in our hands until the day we are decrepit and disappear from the earth." },
+      { "line": "Jewelry will find its light again when all the residents are gone." }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 24,
+    "name": "Boss",
+    "lines": [
+      { "line": "You finally come here!" },
+      { "line": "I've been waiting you for a long time." },
+      { "line": "It was just a playful suggestion..." },
+      { "line": "I didn't think you're possible to come up to the top floor." },
+      { "line": "To show my respect to you, I'll greet you with my true self." },
+      { "line": "(An animation that changes from scarecrow to boss)" },
+      { "line": "Let me introduce myself." },
+      { "line": "It's a shadow of tragedy that represents everyone stained by someone's greed." },
+      { "line": "Please accept my sincerity to you who followed me to the end of the story." }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 25,
+    "name": "Boss",
+    "lines": [
+      { "line": "..." },
+      { "line": "Doesn't you the boy... regret it?" },
+      { "line": "Don't you think we're pathetic?" },
+      { "line": "Can't you also see the truth?" },
+      { "line": "Why... do we have to suffer alone like this...?" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 26,
+    "name": "Sparkle",
+    "lines": [
+      { "line": "At least one of them will no longer suffer from your actions." },
+      { "line": "I don't know if your choice is true or ignorant." },
+      { "line": "But anyway, I'm satisfied to see the end of that choice." },
+      { "line": "Congratulations, by the way. You are a great warrior." },
+      { "line": "Would you like to take out three jewels?" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 27,
+    "name": "Sparkle",
+    "lines": [
+      { "line": "At least one of them will no longer suffer from your actions." },
+      { "line": "I don't know if your choice is true or ignorant." },
+      { "line": "But anyway, I'm satisfied to see the end of that choice." },
+      { "line": "Congratulations, by the way. You are a great warrior." },
+      { "line": "Now you can leave here." }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 28,
+    "name": "Ending_known_leave",
+    "lines": [
+      { "line": "The boy left the temple without regret." },
+      { "line": "The boy realized that jewels were not his own." },
+      { "line": "The jewels has become a temple thing again." },
+      { "line": "Although the village has not regained its energy, the boy knows this is the right thing to do." },
+      { "line": "END" },
+      { "line": "END" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 29,
+    "name": "Ending_unknown",
+    "lines": [
+      { "line": "The boy went back to the village with the jewels." },
+      { "line": "Hooray for the great hero!" },
+      { "line": "Now the land in the village is fertile, the water is clean, and the air is clear." },
+      { "line": "The village was peaceful and happy for a long time." },
+      { "line": "END" },
+      { "line": "END" }
+    ]
+  },
+  {
+    "scene": 6,
+    "index": 30,
+    "name": "Ending_known_get",
+    "lines": [
+      { "line": "The boy went back to town with jewelry." },
+      { "line": "The villagers and his mother were very happy and the boy became a hero." },
+      { "line": "The village, which regained its jewels, was enriched again." },
+      { "line": "But the warrior's heart was empty." },
+      { "line": "END" },
+      { "line": "END" }
+    ]
+  },
+  {
+    "scene": 2,
+    "index": 31,
+    "name": "HowToPlay",
+    "lines": [
+      { "line": "Move: ↑←↓→ , Attack/Talk: Big button at the bottom right, Potion: Small button at the bottom right" }
+    ]
+  }
+]

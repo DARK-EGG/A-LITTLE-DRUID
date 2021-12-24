@@ -13,9 +13,14 @@
 # Paid Assets 
 Bitgem/
 PixelMobs/
-Prefab/*Floor/
+1stFloor/
+2ndFloor/
+3rdFloor/
+4thFloor/
 Palettes/
-Drawings/Materials/bling*.png
+bling1.png
+bling2.png
+bling3.png
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored

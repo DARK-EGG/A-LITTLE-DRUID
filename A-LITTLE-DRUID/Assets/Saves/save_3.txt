@@ -1,0 +1,1 @@
+{"killmobs":0,"countMemoryPieces":3,"checkJewel":true,"languageIndex":0}

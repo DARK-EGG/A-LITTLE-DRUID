@@ -1,0 +1,1 @@
+{"ending1":false, "ending2":false, "ending3":false}
