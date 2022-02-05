@@ -10,6 +10,10 @@
 
 ◼️ 제작 기간: 2020.03. ~ 2021.10.  
 
+◼️ 실행 파일: [다운로드 링크](https://drive.google.com/file/d/1F9yuYY4VAmQ8yZDDe1SCGbYrHDTMEuqT/view)
+
+◼️ 플레이 영상: [유튜브 링크](https://www.youtube.com/watch?v=W_xA3_OSVcU&feature=youtu.be)
+
 <br>
 
 ## 🗺️ 게임 시나리오
