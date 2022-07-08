@@ -83,8 +83,8 @@ public class PlayerMove : MonoBehaviour
         AttackAnim();
 
         //special functions
-        if (Input.GetButtonDown("Jump") || talk_Down /* || Input.GetMouseButtonDown(0)*/){
-            Debug.Log("TalkButton");
+        
+        if (Input.GetButtonDown("Jump") || talk_Down ){
             DialogueUI ui = GetComponent<DialogueUI>();
             BossTalk bossTalk = GetComponent<BossTalk>();
             //NPC 대화
@@ -100,8 +100,6 @@ public class PlayerMove : MonoBehaviour
             { 
                 if(bossTalk.getBossTalkTrigger().CompareTag("TalkTrigger") && !BossTalk.canBoss && !DialogueUI.endBossTalk && BossTalk.nowBossTalk)
                 {
-
-                    Debug.Log("PlayerMove.BossTrigger");
                     ui.OpenDialog(bossTalk.getBossTalkTrigger());
                 }
             }

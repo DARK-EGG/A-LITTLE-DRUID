@@ -78,14 +78,11 @@ public class PlayerAttackKeyEvent : MonoBehaviour
                 HitSoundPlay();
             for (int i = 0; i < enemiesHP.EnemyName.Length; i++)
             {
-                //Condition은 특정 범위 내부에 몬스터가 있는지를 판별하기 위한 bool변수입니다.
                 var enemy = enemiesHP.Enemies[i];
                 distanceBEP = Vector2.Distance(enemy.transform.position, playerPosition);
                 if (distanceBEP < playerStatus.pStatus.distance)
                 {
                     enemiesHP.EnemyHp[i] -= dmg;
-                    //MonsterHitSoundPlay();
-                    //StartCoroutine(MonsterHitImg(enemiesHP.Enemies[i]));
 
                     if(DeadConfirm(enemy, enemiesHP.EnemyHp[i]))
                     {
@@ -95,19 +92,6 @@ public class PlayerAttackKeyEvent : MonoBehaviour
                             enemyCertainRadius.EnemyCrushed(i);
                         }
                     }
-
-                    /*
-                    if (enemiesHP.EnemyHp[i] <= 0)
-                    {
-                        enemiesHP.Enemies[i].transform.position = MonsterOut;
-                        removedEnemyNum += 1;
-                        SorrowSoundPlay();
-                        if (SceneManager.GetActiveScene().buildIndex == 6)
-                        {
-                            enemyCertainRadius.EnemyCrushed(i);
-                        }
-                    }
-                    */
                 }
             }
             for (int t = 0; t < enemiesHP.MiddleBoss.Length; t++)

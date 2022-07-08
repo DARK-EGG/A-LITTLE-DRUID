@@ -94,7 +94,6 @@ public class DialogueUI : MonoBehaviour
 
     public void Talk(int id)
     {
-
         //변경된 대사인지 확인 
         if (!changed)
             if (ChangeTalk(id)) return;
@@ -161,6 +160,7 @@ public class DialogueUI : MonoBehaviour
             else if(id == 10)
             {
                 BossTalk.nowBossTalk = false;
+                BossTalk.atomicity = false;
             }
             return;
         }
@@ -378,7 +378,6 @@ public class DialogueUI : MonoBehaviour
     {
         if (index == 0)
         {
-            Debug.Log("입장문 등장");
             isNext = 1;
             alertBox.SetActive(true);
             dialogBox.SetActive(false);
@@ -391,7 +390,6 @@ public class DialogueUI : MonoBehaviour
         }
         else if (index == 1)
         {
-            Debug.Log("이동");
             alertBox.SetActive(false);
             dialogBox.SetActive(false);
             if (SaveData.isAndroid)

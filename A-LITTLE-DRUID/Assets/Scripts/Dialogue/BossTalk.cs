@@ -18,6 +18,7 @@ public class BossTalk : MonoBehaviour
     public static bool nowBossTalk = false;
     private GameObject talkTrigger;
     public static int id;
+    public static bool atomicity;
 
     public void Awake()
     {
@@ -25,6 +26,7 @@ public class BossTalk : MonoBehaviour
         canBoss = false;
         stopTime = false;
         nowBossTalk = false;
+        atomicity = true;
     }
 
     private void Start()
@@ -41,6 +43,7 @@ public class BossTalk : MonoBehaviour
             //보스와의 싸움 시작 전
             if (!canBoss)
             {
+                atomicity = true;
                 ColliderSetting colliderSetting = GetComponent<ColliderSetting>();
                 if (SaveData.isAndroid)
                     colliderSetting.canAttack = false;
@@ -49,11 +52,13 @@ public class BossTalk : MonoBehaviour
                 ui.OpenDialog(scanObject);
                 if (!DialogueUI.bossTalkChanged || UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex != 3) {
                     talkTrigger = GameObject.FindGameObjectWithTag("TalkTrigger");
-                    Debug.Log(talkTrigger.name + " 멀리 이동");
                     talkTrigger.transform.position = new Vector3(2000,0,0);
                 }
-                nowBossTalk = true;
+                if(atomicity == true)
+                    nowBossTalk = true;
                 scanObject = null;
+                atomicity = true;
+
             }
             //강제 전체 멈춤, 대화 강제 시작
             if (scanObject && canTalk)
