@@ -10,10 +10,15 @@
 
 ◼️ 제작 기간: 2020.03. ~ 2021.10.  
 
+◼️ 실행 파일: [다운로드 링크](https://drive.google.com/file/d/1F9yuYY4VAmQ8yZDDe1SCGbYrHDTMEuqT/view)
+
+◼️ 플레이 영상: [유튜브 링크](https://www.youtube.com/watch?v=W_xA3_OSVcU&feature=youtu.be)
+
 <br>
 
 ## 🗺️ 게임 시나리오
 
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_opening.jpg" alt="a_little_druid_opening" border="0" width="1000px" />
 
 ### ‘ 눈에 보이는 사실을 절대적인 진실이라고 할 수 있는가.’
  오래 전, 풍요로운 땅을 찾아 계속해서 여행하던 우리 일족은 이 땅에 터를 잡았다. 하지만 어느 날, 사악한 것들이 우리의 것을 빼앗아 땅을 망치기 시작했고, 이윽고 우리의 터전은 가뭄이 들어 모든 것이 부족한 땅이 되었다. 저주받은 땅의 주민들은 다시금 땅의 풍요를 되찾고자, 모든 일의 발단이 되는 사악한 생명체로 가득한 신전으로 용사를 보낸다. 하지만 오랜 기간 동안 그 누구도 마을로 돌아오지 못했고 당신은 마법사의 피를 잇는 마지막 용사이다. 부디 이번만은 그들에게 빼앗긴 것을 되찾아오길. **_당신이 진실을 알아주길._**
@@ -29,6 +34,8 @@
 * 층 별로 진행할 수록 플레이 난이도가 높아지는 신전이 배경
 * '원소석 얻기'라는 목표 달성을 위해 적을 물리치며 게임을 진행
 * '기억의 조각' 아이템 수집을 통해 플레이어가 스토리에 관심을 갖도록 유도
+
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_memory.png" alt="a_little_druid_memory" border="0" width="800px" />
 
 <br>
 
@@ -46,6 +53,10 @@
 4️⃣ **UI/UX 컨셉**
 * 안드로이드에 적합하도록 필수적인 부분만 간단하게 표현
 
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_village1.jpg" alt="a_little_druid_village1" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_village2.jpg" alt="a_little_druid_village2" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_village3.jpg" alt="a_little_druid_village3" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_village4.jpg" alt="a_little_druid_village4" border="0" width="800px" />
 
 <br>
 
@@ -53,6 +64,13 @@
 ◼️ 플레이에 따라 달라지는 스토리 정보 제공
 
 ◼️ 다양한 캐릭터들과 특징을 가진 각 스테이지들
+
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_boss1_1.jpg" alt="a_little_druid_boss1_1" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_boss1_2.jpg" alt="a_little_druid_boss1_2" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_boss_2.png" alt="a_little_druid_boss_2" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_floor2_1.png" alt="a_little_druid_floor2_1" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_floor2_2.png" alt="a_little_druid_floor2_2" border="0" width="800px" />
+<img src="https://github.com/raae7742/A-LITTLE-DRUID/blob/main/images/a_little_druid_middle_boss1.png" alt="a_little_druid_middle_boss1" border="0" width="800px" />
 
 <br>
 
